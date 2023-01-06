@@ -1,4 +1,5 @@
-# Challenge 1
+# Challenge 1: Given an array of strings, return only the strings that have exactly 4 characters.
+
 # 1. look at each word in an array of strings and print the strings that have exactly four characters
 # 2. array of strings --> print some of them to the console
 # 3. an array of strings some should have exactly four characters, some should have more and less
